@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       >
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profile_image_search_card"
+            android:layout_width="149dp"
+            android:layout_height="113dp"
+            android:layout_centerVertical="true"
+            android:layout_margin="15dp"
+
+            android:src="@drawable/chef"/>
+
+        <TextView
+            android:id="@+id/userName_search_card"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/profile_image_search_card"
+            android:text="username"
+            android:textColor="#000000"
+            android:textSize="18dp" />
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="13dp"
+            android:layout_toRightOf="@id/profile_image_search_card"
+            android:layout_below="@+id/userName_search_card"
+            android:orientation="horizontal"
+            android:visibility="gone"/>
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

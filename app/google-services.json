@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067293167956",
+    "firebase_url": "https://chefstagram.firebaseio.com",
+    "project_id": "chefstagram",
+    "storage_bucket": "chefstagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067293167956:android:71174691031a2dd264b8c1",
+        "android_client_info": {
+          "package_name": "edu.neu.madcourse.numad20f_yang_ylescupidez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067293167956-3kdebhenir8bb70t0npg2tm6g2h9o2aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWo2UkAZBI8h8me97EU2UwRew7tKJScNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067293167956-3kdebhenir8bb70t0npg2tm6g2h9o2aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Chefstagram</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_recipe_view">MainActivity</string>
+    <string name="title_activity_recipe">MainActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Description</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Steps</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_search">Search</string>
+    <string name="medal_icon_description">Medal Icon Description</string>
+    <string name="achievement_title">Achievement</string>
+    <string name="achievement_description">This is how you get the achievement</string>
+    <string name="title_achievements">Achievements</string>
+    <string name="title_recipes">Recipes</string>
+    <string name="create_recipe_button">create recipe</string>
+    <string name="my_recipes">Recipes Made By You</string>
+    <string name="liked_recipes">Liked Recipes</string>
+    <string name="recipe_create_description">Create a Recipe</string>
+    <string name="title_recipes_page">My Recipes</string>
+    <string name="hollow_heart">♡</string>
+    <string name="filled_heart">♥</string>
+</resources>
